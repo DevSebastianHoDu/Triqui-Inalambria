@@ -1,0 +1,15 @@
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Triqui.resources
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\shodu\Documents\Proyectos\Inalambria\Triqui\TriquiInterfaz\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Triqui4x4.resources
